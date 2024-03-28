@@ -223,8 +223,6 @@ sm.qqplot(dt['Age_1'],line='45')
 plt.show()
 ```
 ![image](https://github.com/hindhujanaki/EXNO-3-DS/assets/148514666/3516d64a-1b72-4592-b628-d94f53408374)
-
-
 # RESULT:
 Thus perform Feature Encoding and Transformation process is executed successfully.
 
